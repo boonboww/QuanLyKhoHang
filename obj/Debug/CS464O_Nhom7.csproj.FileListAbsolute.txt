@@ -1,0 +1,16 @@
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\obj\Debug\CS464O_Nhom7.csprojAssemblyReference.cache
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\obj\Debug\CS464O_Nhom7.Properties.Resources.resources
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\obj\Debug\CS464O_Nhom7.csproj.GenerateResource.cache
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\obj\Debug\CS464O_Nhom7.csproj.CoreCompileInputs.cache
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\bin\Debug\CS464O_Nhom7.exe.config
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\bin\Debug\CS464O_Nhom7.exe
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\bin\Debug\CS464O_Nhom7.pdb
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\obj\Debug\CS464O_Nhom7.exe
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\obj\Debug\CS464O_Nhom7.pdb
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\bin\Debug\data\Database1.mdf
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\bin\Debug\data\Database1_log.ldf
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\obj\Debug\CS464O_Nhom7.GUI.frm_DangNhap.resources
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\obj\Debug\CS464O_Nhom7.GUI.frm_HoaDon.resources
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\obj\Debug\CS464O_Nhom7.GUI.frm_QuanLySP.resources
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\obj\Debug\CS464O_Nhom7.GUI.frm_QuanLyKH.resources
+D:\doan.net\CS464O_Nhom7\CS464O_Nhom7\obj\Debug\CS464O_Nhom7.GUI.frm_TrangChu.resources
